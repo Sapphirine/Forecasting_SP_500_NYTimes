@@ -22,7 +22,7 @@ R, Python, Spark
 
 + data folder contains S&P 500 index historical data and sample data of news. The whole dataset is 2.92GB, so it is unable to upload on Github. Have interests in how to get them? Check source codes in lib folder.
 
-+ figs folder contains all figures produced in the modeling proces.
++ figs folder contains all figures produced in the modeling process.
 
 + lib folder contains all source codes. Dependencies needed: R, Python 2.7, PySpark.
 
