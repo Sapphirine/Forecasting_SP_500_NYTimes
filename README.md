@@ -26,4 +26,4 @@ R, Python, Spark
 
 + lib folder contains all source codes. Dependencies needed: R, Python 2.7, PySpark.
 
-+ output folder contains final model (opened by Python pickle) and visualizaiotns of model results.
++ output folder contains final model (opened by Python pickle) and visualizations of model results.
